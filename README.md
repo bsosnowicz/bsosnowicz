@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsosnowicz&label=Profile%20views&color=0e75b6&style=flat" alt="bsosnowicz" /> </p>
 
-- 🔭 I’m currently working on [wallet](https://github.com/bsosnowicz/wallet)
+- 🔭 I’m currently working on [moviehub](https://github.com/bsosnowicz/moviehub)
 
 - 🌱 I’m currently learning **Typescript, C#**
 
